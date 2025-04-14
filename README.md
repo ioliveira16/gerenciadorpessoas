@@ -4,7 +4,7 @@ Projeto desenvolvido como parte da disciplina de Desenvolvimento Java, com foco 
 
 ## 👥 Dupla
 - Igor Matheus Lopes de Oliveira (01343570)
-- 
+- Lucas Manuel (01697699)
 
 ## 📋 Descrição
 API para gerenciamento de pessoas de uma universidade.
