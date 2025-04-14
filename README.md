@@ -3,8 +3,8 @@
 Projeto desenvolvido como parte da disciplina de Desenvolvimento Java, com foco em criação de APIs REST utilizando Spring Boot.
 
 ## 👥 Dupla
-- Igor Oliveira
-- [Nome do(a) parceiro(a)]
+- Igor Matheus Lopes de Oliveira (01343570)
+- 
 
 ## 📋 Descrição
 API para gerenciamento de pessoas de uma universidade.
